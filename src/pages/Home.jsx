@@ -24,7 +24,7 @@ const Home = () => {
   return (
     <div>
       <div>
-        <h1>Lista de produtos</h1>
+        <h1>Lista</h1>
         <div className="d-flex col-12 gap-2 mt-3 justify-content-between flex-wrap">
           {/* Card com informações fixas */}
           <CardProduto
